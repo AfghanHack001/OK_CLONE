@@ -16,4 +16,4 @@ cd OK_CLONE
 
 ls
 
-python OK_CLONE
+python OK_CLONE.py
