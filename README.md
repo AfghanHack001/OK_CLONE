@@ -10,7 +10,7 @@ pkg install python
 
 rm -rf OK_CLONE
 
-git clone git clone https://github.com/AfghanHack001/OK_CLONE.git
+git clone https://github.com/AfghanHack001/OK_CLONE.git
 
 cd OK_CLONE
 
